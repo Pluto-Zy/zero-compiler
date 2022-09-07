@@ -1,0 +1,2 @@
+This folder holds files that define language constructs such as keywords, punctuators, etc. These files often need to be
+included multiple times in order for the preprocessor to generate appropriate code based on the context.
